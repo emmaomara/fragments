@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context="com.aballa.omara"
+    android:orientation="vertical">
+
+
+    <ImageView
+
+        android:id="@+id/imageView"
+        android:src="@drawable/emma"
+        android:layout_marginTop="100dp"
+        android:layout_width="250dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_height="250dp"
+        tools:ignore="ContentDescription"/>
+
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+</LinearLayout>
+
+

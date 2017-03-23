@@ -1,0 +1,15 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.aballa.Aballa">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <TextView
+        android:text="recent photo of mine. whic is displayed in the second fragments this fragment appears in landscape mode only"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/textView"
+        android:textSize="24sp" />
+</FrameLayout>
